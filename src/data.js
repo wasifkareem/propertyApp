@@ -161,7 +161,7 @@ export const mumbaiData = [
   },
   {
     address: "3 Worli Sea Face",
-    houseInfo: "Luxury condo, with a private pool and gym",
+    houseInfo: "Luxury condo, with a private  gym",
     room: 2,
     bed: 4,
     bath: 3,
@@ -172,7 +172,7 @@ export const mumbaiData = [
   },
   {
     address: "11 Bandra Kurla Complex",
-    houseInfo: "Sleek loft, with a rooftop terrace and a jacuzzi",
+    houseInfo: "Sleek loft, with a rooftop terrace",
     room: 2,
     bed: 4,
     bath: 3,
@@ -184,7 +184,7 @@ export const mumbaiData = [
   },
   {
     address: "6 Juhu Beach",
-    houseInfo: "Beachfront cottage, with a private garden and a hammock",
+    houseInfo: "Beachfront cottage, with a garden",
     room: 2,
     bed: 3,
     bath: 2,
@@ -206,7 +206,7 @@ export const mumbaiData = [
   },
   {
     address: "8 Nariman Point",
-    houseInfo: "Stylish studio, with a panoramic view of the city skyline",
+    houseInfo: "Stylish studio, with view of the  skyline",
     room: 1,
     bed: 2,
     bath: 1,
