@@ -10,7 +10,7 @@ export const nycData = [
     image_link:
       "https://images.unsplash.com/photo-1566515610329-94f02c3707d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwaG91c2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
     rent: 3300,
-    label: true,
+    // label: true,
   },
   {
     category: "london",
@@ -60,7 +60,7 @@ export const nycData = [
     image_link:
       "https://media.rightmove.co.uk/dir/70k/69298/137569316/69298_26541135_IMG_20_0000_max_476x317.jpeg",
     rent: 1500,
-    label: true,
+    // label: true,
   },
   {
     category: "london",
@@ -85,7 +85,7 @@ export const nycData = [
     image_link:
       "https://cdn.homedit.com/wp-content/uploads/2009/08/luxury-london-property-by-harrison-varma.jpg",
     rent: 3300,
-    label: true,
+    // label: true,
   },
   {
     category: "london",
@@ -124,7 +124,7 @@ export const mumbaiData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU110e0lWdtLjWM6-Fa1-itQowM-kFcbgzATdaOGmLUbkFIBsKjiiW18Cdm8RZDJmLwF8&usqp=CAU",
     rent: 5000,
-    label: true,
+    // label: true,
   },
   {
     address: "7 Altamount Road",
@@ -143,7 +143,7 @@ export const mumbaiData = [
     room: 2,
     bed: 4,
     bath: 3,
-    area: 800,
+    area: 820,
     image_link:
       "https://assets.traveltriangle.com/blog/wp-content/uploads/2020/01/The-Yellow-House-Manori_14th-jan.jpg",
     rent: 3000,
@@ -180,7 +180,7 @@ export const mumbaiData = [
     image_link:
       "https://static.toiimg.com/thumb/msid-88643550,width-400,resizemode-4/88643550.jpg",
     rent: 3200,
-    label: true,
+    // label: true,
   },
   {
     address: "6 Juhu Beach",
@@ -188,7 +188,7 @@ export const mumbaiData = [
     room: 2,
     bed: 3,
     bath: 2,
-    area: 800,
+    area: 841,
     image_link:
       "https://assets.gqindia.com/photos/5f54835ade5e2aaea53dd8cc/master/w_1600%2Cc_limit/Aashiyana.jpg",
     rent: 2800,
@@ -228,7 +228,7 @@ export const parisData = [
     image_link:
       "https://i0.wp.com/inspirelle.com/wp-content/uploads/2016/11/ParisApartment-AlexisDuclos.jpg?fit=640%2C426&ssl=1",
     rent: 6000,
-    label: true,
+    // label: true,
   },
   {
     address: "8 Rue du Faubourg Saint-Honoré",
@@ -242,12 +242,12 @@ export const parisData = [
     rent: 8000,
   },
   {
-    address: "12 Boulevard Saint-Germain",
-    houseInfo: "Modern loft, with a rooftop terrace and a jacuzzi",
-    room: 2,
+    address: "12 Santaro Saint-Germain",
+    houseInfo: "Modern loft, with terrace and a spa",
+    room: 7,
     bed: 4,
     bath: 3,
-    area: 800,
+    area: 849,
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkb-ZwtbOKe6wX7aThMdfLQf0UWSSAOMPMPw&usqp=CAU",
     rent: 4000,
@@ -258,7 +258,7 @@ export const parisData = [
     room: 2,
     bed: 3,
     bath: 2,
-    area: 800,
+    area: 540,
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPso9sE_-p4g5F8kHp5kK3XbYaTysw1Q2qA&usqp=CAU",
     rent: 3500,
@@ -273,7 +273,7 @@ export const parisData = [
     image_link:
       "https://theluxurytravelbook.com/storage/media/images/general/og_large/France-Paris-luxury-villa-rent-rue-windsor-residence%20(23)-863c5e.jpg",
     rent: 3000,
-    label: true,
+    // label: true,
   },
   {
     address: "14 Rue de la Paix",
@@ -296,10 +296,21 @@ export const parisData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwTjaPm6-UmltxbXmUUWZ7_MIkcCf8iriSw&usqp=CAU",
     rent: 5500,
-    label: true,
+    // label: true,
   },
   {
     address: "5 Rue du Bac",
+    houseInfo: "Cozy duplex, with a fireplace and a balcony",
+    room: 2,
+    bed: 3,
+    bath: 2,
+    area: 750,
+    image_link:
+      "https://qph.cf2.quoracdn.net/main-qimg-65c95bd599f7621880f8055112959aca-lq",
+    rent: 3200,
+  },
+  {
+    address: "5 Santa du Bac",
     houseInfo: "Cozy duplex, with a fireplace and a balcony",
     room: 2,
     bed: 3,
@@ -343,7 +354,7 @@ export const londonData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR334q3yM-4y6GuB7lly4pEQzWcP3WWtAFbow&usqp=CAU",
     rent: 6000,
-    label: true,
+    // label: true,
   },
   {
     address: "9 Hyde Park Gardens",
@@ -362,10 +373,20 @@ export const londonData = [
     room: 2,
     bed: 3,
     bath: 2,
-    area: 800,
+    area: 493,
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATFKEU9IZShk0S8HqQSgNMDzS-laN3g8Ypw&usqp=CAU",
     rent: 4000,
+  },
+  {
+    address: "10 Sancra Palace Gardens",
+    houseInfo: "Royal mansion, near the residence of the Duke ",
+    room: 5,
+    bed: 10,
+    bath: 6,
+    area: 4372,
+    image_link: "https://www.housesforsaleinwales.co.uk/images/banner1.jpg",
+    rent: 10000,
   },
   {
     address: "6 Chelsea Square",
@@ -373,11 +394,11 @@ export const londonData = [
     room: 2,
     bed: 3,
     bath: 2,
-    area: 800,
+    area: 437,
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSxIANqfZp6iWLusciICUDy1ZdNqwSutrXA&usqp=CAU",
     rent: 3500,
-    label: true,
+    // label: true,
   },
   {
     address: "11 Covent Garden",
@@ -400,6 +421,6 @@ export const londonData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEvLIj11ik7vPZIg2agq81q9MvRlqExEq1Ug&usqp=CAU",
     rent: 4500,
-    label: true,
+    // label: true,
   },
 ];

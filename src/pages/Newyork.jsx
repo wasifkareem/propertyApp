@@ -5,7 +5,6 @@ import { nycData } from "../data";
 
 const Newyork = () => {
   const [toggle, setToggle] = useState(false);
-  console.log(toggle);
 
   const expandClick = () => {
     setToggle(true);
