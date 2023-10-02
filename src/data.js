@@ -288,7 +288,7 @@ export const parisData = [
   },
   {
     address: "9 Avenue Foch",
-    houseInfo: "Stylish penthouse, with a panoramic view of the city skyline",
+    houseInfo: "Stylish penthouse, with  view of the city ",
     room: 3,
     bed: 5,
     bath: 4,
