@@ -2,7 +2,7 @@ export const nycData = [
   {
     category: "london",
     address: "12 Baker Street",
-    houseInfo: "Sherlock Holmes Museum - London NW1 6XE",
+    houseInfo: "Sherlock Holmes Museum - NYC NW1 6XE",
     room: 2,
     bed: 3,
     bath: 1,
