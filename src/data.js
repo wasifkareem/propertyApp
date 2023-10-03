@@ -10,7 +10,7 @@ export const nycData = [
     image_link:
       "https://images.unsplash.com/photo-1566515610329-94f02c3707d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwaG91c2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
     rent: 3300,
-    label: true,
+    // label: true,
   },
   {
     category: "london",
@@ -60,7 +60,7 @@ export const nycData = [
     image_link:
       "https://media.rightmove.co.uk/dir/70k/69298/137569316/69298_26541135_IMG_20_0000_max_476x317.jpeg",
     rent: 1500,
-    label: true,
+    // label: true,
   },
   {
     category: "london",
@@ -85,7 +85,7 @@ export const nycData = [
     image_link:
       "https://cdn.homedit.com/wp-content/uploads/2009/08/luxury-london-property-by-harrison-varma.jpg",
     rent: 3300,
-    label: true,
+    // label: true,
   },
   {
     category: "london",
@@ -124,7 +124,7 @@ export const mumbaiData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU110e0lWdtLjWM6-Fa1-itQowM-kFcbgzATdaOGmLUbkFIBsKjiiW18Cdm8RZDJmLwF8&usqp=CAU",
     rent: 5000,
-    label: true,
+    // label: true,
   },
   {
     address: "7 Altamount Road",
@@ -180,7 +180,7 @@ export const mumbaiData = [
     image_link:
       "https://static.toiimg.com/thumb/msid-88643550,width-400,resizemode-4/88643550.jpg",
     rent: 3200,
-    label: true,
+    // label: true,
   },
   {
     address: "6 Juhu Beach",
@@ -228,7 +228,7 @@ export const parisData = [
     image_link:
       "https://i0.wp.com/inspirelle.com/wp-content/uploads/2016/11/ParisApartment-AlexisDuclos.jpg?fit=640%2C426&ssl=1",
     rent: 6000,
-    label: true,
+    // label: true,
   },
   {
     address: "8 Rue du Faubourg Saint-Honoré",
@@ -273,7 +273,7 @@ export const parisData = [
     image_link:
       "https://theluxurytravelbook.com/storage/media/images/general/og_large/France-Paris-luxury-villa-rent-rue-windsor-residence%20(23)-863c5e.jpg",
     rent: 3000,
-    label: true,
+    // label: true,
   },
   {
     address: "14 Rue de la Paix",
@@ -296,7 +296,7 @@ export const parisData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwTjaPm6-UmltxbXmUUWZ7_MIkcCf8iriSw&usqp=CAU",
     rent: 5500,
-    label: true,
+    // label: true,
   },
   {
     address: "5 Rue du Bac",
@@ -354,7 +354,7 @@ export const londonData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR334q3yM-4y6GuB7lly4pEQzWcP3WWtAFbow&usqp=CAU",
     rent: 6000,
-    label: true,
+    // label: true,
   },
   {
     address: "9 Hyde Park Gardens",
@@ -398,7 +398,7 @@ export const londonData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSxIANqfZp6iWLusciICUDy1ZdNqwSutrXA&usqp=CAU",
     rent: 3500,
-    label: true,
+    // label: true,
   },
   {
     address: "11 Covent Garden",
@@ -421,6 +421,6 @@ export const londonData = [
     image_link:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEvLIj11ik7vPZIg2agq81q9MvRlqExEq1Ug&usqp=CAU",
     rent: 4500,
-    label: true,
+    // label: true,
   },
 ];
